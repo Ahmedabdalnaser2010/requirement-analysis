@@ -1,5 +1,3 @@
-![alx-booking-uc](https://github.com/user-attachments/assets/e4352024-247f-44e9-96ec-b157ad62ef86)![alx-booking-uc](https://github.com/user-attachments/assets/2755fca0-d5f0-42ef-bd36-6c1f12efca1d)![alx-booking-uc](https://github.com/user-attachments/assets/52bc95b9-6461-4f0c-8eae-47716255ca24)# requirement-analysis
-
 ## Requirement Analysis in Software Development
 
 This repository contains the requirement analysis documentation for a hotel booking management system similar to Airbnb or OYO. It includes functional and non-functional requirements, use case diagrams, and acceptance criteria.
