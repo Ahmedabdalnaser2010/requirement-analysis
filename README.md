@@ -26,3 +26,15 @@ In SDLC, it's the crucial first phase that bridges business needs with technical
 - **Requirement Documentation**: Create SRS document with functional/non-functional requirements
 - **Analysis & Modeling**: Develop use cases and data models (like hotel booking flow)
 - **Requirement Validation**: Review requirements for completeness and consistency
+
+## Types of Requirements
+
+### Functional Requirements
+1. Property Search: Users can filter hotels by location, price, amenities
+2. Booking System: Secure reservation process with payment integration
+3. User Profiles: Registration/login with authentication
+
+### Non-functional Requirements
+1. Performance: Handle 1000 concurrent users with <2s response time
+2. Security: Encrypt sensitive data like payment information
+3. Scalability: Microservices architecture to handle peak loads
