@@ -18,3 +18,11 @@ In SDLC, it's the crucial first phase that bridges business needs with technical
 1. **Prevents Costly Changes**: Identifying requirements early reduces expensive changes later
 2. **Sets Clear Expectations**: Aligns stakeholders and developers on system functionality
 3. **Forms Development Foundation**: Provides blueprint for design, coding, and testing
+
+## Key Activities in Requirement Analysis
+
+- **Requirement Gathering**: Collect needs through interviews, surveys (e.g., hotel managers need property management tools)
+- **Requirement Elicitation**: Refine requirements via workshops and prototypes
+- **Requirement Documentation**: Create SRS document with functional/non-functional requirements
+- **Analysis & Modeling**: Develop use cases and data models (like hotel booking flow)
+- **Requirement Validation**: Review requirements for completeness and consistency
