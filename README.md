@@ -47,3 +47,12 @@ Benefits:
 - Visualizes system interactions
 - Identifies all user roles and functions
 - Guides development and testing
+
+## Acceptance Criteria
+
+Example for Booking Feature:
+1. User can select available dates from calendar
+2. System displays total price including taxes
+3. Confirmation email sent within 2 minutes
+4. Booking appears in user's profile immediately
+5. Hotel manager receives notification of new booking
