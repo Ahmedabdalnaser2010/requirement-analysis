@@ -38,3 +38,12 @@ In SDLC, it's the crucial first phase that bridges business needs with technical
 1. Performance: Handle 1000 concurrent users with <2s response time
 2. Security: Encrypt sensitive data like payment information
 3. Scalability: Microservices architecture to handle peak loads
+
+## Use Case Diagrams
+
+
+
+Benefits:
+- Visualizes system interactions
+- Identifies all user roles and functions
+- Guides development and testing
